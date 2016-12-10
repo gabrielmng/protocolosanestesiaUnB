@@ -11,4 +11,11 @@ public class MainActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
+    
+    public void cliquevpa(View view)
+    {
+    setContentView(R.layout.vpa1);
+    }
+    
+    
 }
