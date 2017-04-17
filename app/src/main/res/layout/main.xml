@@ -32,6 +32,11 @@
 		android:layout_height="wrap_content"
 		android:layout_width="wrap_content"
 		android:text="Procedimentos anestesiologistas"/>
+	
+	<Button
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:text="Protocolo Hipertermia Maligna!"/>
 
 </LinearLayout>
 
